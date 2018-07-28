@@ -1,0 +1,8 @@
+.vs
+publish
+packages
+TestResults
+bin
+obj
+*.user
+*.suo
